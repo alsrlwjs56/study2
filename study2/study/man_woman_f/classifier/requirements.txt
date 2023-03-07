@@ -1,0 +1,8 @@
+numpy
+pandas
+fastapi
+tensorflow-gpu==2.8.2
+uvicorn
+pillow
+python-multipart
+

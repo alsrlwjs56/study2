@@ -1,0 +1,5 @@
+train: ./study/Mask\ Wearing.v1-416x416-black-padding.yolov5pytorch/train
+val: ./study/Mask\ Wearing.v1-416x416-black-padding.yolov5pytorch/valid
+
+nc: 2
+names: ['mask', 'no-mask']
