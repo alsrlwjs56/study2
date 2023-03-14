@@ -11,3 +11,44 @@ map:
     - !!python/tuple [0, 1]
     - !!python/tuple [2, 1]
 
+# agents:
+# - start: [0, 0]
+#   goal: [2, 0]
+#   name: agent0
+# - start: [2, 0]
+#   goal: [0, 0]
+#   name: agent1
+# - start: [5, 5]
+#   goal: [10, 10]
+#   name: agent2
+# - start: [15, 15]
+#   goal: [20, 20]
+#   name: agent3
+# - start: [25, 25]
+#   goal: [30, 30]
+#   name: agent4
+# - start: [0, 10]
+#   goal: [32, 10]
+#   name: agent5
+# - start: [10, 20]
+#   goal: [32, 20]
+#   name: agent6
+# - start: [20, 30]
+#   goal: [32, 30]
+#   name: agent7
+# - start: [32, 0]
+#   goal: [0, 32]
+#   name: agent8
+# - start: [32, 16]
+#   goal: [16, 32]
+#   name: agent9
+# map:
+#   dimensions: [32, 32]
+#   obstacles:
+#   - !!python/tuple [0, 1]
+#   - !!python/tuple [2, 1]
+#   - !!python/tuple [10, 15]
+#   - !!python/tuple [15, 10]
+#   - !!python/tuple [20, 25]
+#   - !!python/tuple [25, 20]
+# cost: 9
